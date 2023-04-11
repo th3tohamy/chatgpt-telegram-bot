@@ -9,7 +9,7 @@
 Clone this repository and cd into it:
 
 ```
-git clone https://github.com/AbdulrahmanTohamy/OpenAIBot.git
+git clone https://github.com/th3tommy/chatgpt-telegram-bot.git
 cd OpenAIBot
 ```
 Install the Python dependencies:
@@ -39,7 +39,7 @@ Create a new account on pythonanywhere.com.
 Click on the "Consoles" tab and open a new Bash console.
 Clone this repository:
 ```
-git clone https://github.com/AbdulrahmanTohamy/OpenAIBot.git
+git clone https://github.com/th3tommy/chatgpt-telegram-bot.git
 cd OpenAIBot
 ```
 Install the dependencies:
